@@ -1,0 +1,200 @@
+Report for Institution Code RBINS, Resource rbins_verts
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 707
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 8
+	Country: Poland ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Papua New Guinea ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 67
+	Country: United Kingdom ; Times: 11
+	Country: Peru ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 26
+	Date: 2017-11-29 ; Times: 23
+	Date: 2017-11-26 ; Times: 16
+	Date: 2017-11-27 ; Times: 37
+	Date: 2017-11-24 ; Times: 4
+	Date: 2017-11-25 ; Times: 15
+	Date: 2017-11-30 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 1
+	Query: "Adelophryne gutturosa" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 1
+	Query: "Haliaeetus albicilla greenland" ; Times: 2
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 6
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "Adelophryne patamona" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "specificepithet:fulgens genus:Ailurus mappable:1" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "cyclopsitta diophthalma" ; Times: 5
+	Query: "Eidolon" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Dendrophryniscus brevipollicatus mappable:1" ; Times: 2
+	Query: "Sotalia guianensis" ; Times: 4
+	Query: "lepidoblepharis heyerorum" ; Times: 3
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "vntype:specimen genus:Orcaella" ; Times: 6
+	Query: "crotalus viridis cerberus" ; Times: 1
+	Query: "Elapoidis fusca" ; Times: 1
+	Query: "Upeneus prayensis" ; Times: 1
+	Query: "ziphius" ; Times: 3
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "Monopeltis scalper" ; Times: 1
+	Query: "Cacomantis sonneratii vntype:specimen" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "genus:python country:&#34;india&#34;" ; Times: 4
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Cyclocorus" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "Speleomantes" ; Times: 1
+	Query: "Ischnocnema guentheri mappable:1" ; Times: 2
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "Meristogenys" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Monopeltis adercae" ; Times: 3
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 3
+	Query: "monopeltis" ; Times: 2
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "masticophis schotti" ; Times: 1
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Cacomantis merulinus vntype:specimen" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 4
+	Query: "specificepithet:tigris genus:Panthera mappable:1" ; Times: 1
+	Query: "Uzbekistan" ; Times: 1
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 4
+	Query: "Polypedates otilophus" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 2
+	Query: "ingerophrynus claviger" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "egretta dimorpha" ; Times: 2
+	Query: "Lithobates palmipes" ; Times: 1
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "Galerella" ; Times: 3
+	Query: "Scelorchilus albicollis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1101 download events in this period)
+Total number of records downloaded: 3703
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 15
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 10
+	Date: 2017-11-26 ; Times: 9
+	Date: 2017-11-27 ; Times: 16
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 15
+	Date: 2017-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "Pakistan Amphibia" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "specificepithet:flavescens genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "Iran Amphibia" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "specificepithet:palmipes genus:Lithobates mappable:1 continent:america" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "specificepithet:zeuctotylus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "specificepithet:stepheni genus:Anomaloglossus mappable:1 continent:america" ; Times: 1
+	Query: "family:salmonidae" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:dentei genus:Hypsiboas mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:patamona genus:Adelophryne mappable:1 continent:america" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:kaiei genus:Anomaloglossus mappable:1 continent:america" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:pyburni genus:Otophryne mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:degranvillei genus:Anomaloglossus mappable:1 continent:america" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "specificepithet:granti genus:Allobates mappable:1 continent:america" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:myersi genus:Leptodactylus mappable:1 continent:america" ; Times: 1
+	Query: "Lithobates palmipes" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+
+
+End of report.
