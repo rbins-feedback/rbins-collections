@@ -1,0 +1,936 @@
+Report for Institution Code RBINS, Resource rbins_verts
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1051
+Number of records retrieved in searches: 5308
+Number of different countries where searches have been originated: 37
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 80
+	Country: Canada ; Times: 24
+	Country: Italy ; Times: 5
+	Country: Ireland ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 106
+	Country: Peru ; Times: 19
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 6
+	Country: Israel ; Times: 24
+	Country: Australia ; Times: 12
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 9
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 7
+	Country: Hong Kong ; Times: 4
+	Country: Spain ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 361
+	Country: Morocco ; Times: 1
+	Country: Latvia ; Times: 2
+	Country: Hungary ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Portugal ; Times: 6
+	Country: South Africa ; Times: 4
+	Country: Mexico ; Times: 88
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 43
+	Country: Austria ; Times: 10
+	Country: Colombia ; Times: 21
+	Country: Paraguay ; Times: 169
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Fiji ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 36
+	Date: 2019-02-23 ; Times: 8
+	Date: 2019-02-11 ; Times: 17
+	Date: 2019-02-10 ; Times: 23
+	Date: 2019-02-13 ; Times: 87
+	Date: 2019-02-12 ; Times: 48
+	Date: 2019-02-15 ; Times: 33
+	Date: 2019-02-14 ; Times: 38
+	Date: 2019-02-17 ; Times: 38
+	Date: 2019-02-16 ; Times: 5
+	Date: 2019-02-19 ; Times: 20
+	Date: 2019-02-18 ; Times: 66
+	Date: 2019-02-02 ; Times: 21
+	Date: 2019-02-03 ; Times: 6
+	Date: 2019-02-26 ; Times: 24
+	Date: 2019-02-01 ; Times: 67
+	Date: 2019-02-20 ; Times: 13
+	Date: 2019-02-07 ; Times: 49
+	Date: 2019-02-04 ; Times: 102
+	Date: 2019-02-05 ; Times: 17
+	Date: 2019-02-08 ; Times: 104
+	Date: 2019-02-09 ; Times: 28
+	Date: 2019-02-28 ; Times: 28
+	Date: 2019-02-24 ; Times: 6
+	Date: 2019-02-25 ; Times: 83
+	Date: 2019-02-27 ; Times: 40
+	Date: 2019-02-06 ; Times: 17
+	Date: 2019-02-21 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Syndactyla ucayalae" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Liopeltis" ; Times: 2
+	Query: "Xenochrophis mappable:1" ; Times: 1
+	Query: "Pyrrhura calliptera" ; Times: 2
+	Query: "specificepithet:shelleyi genus:cryptospiza" ; Times: 3
+	Query: "specificepithet:AESTIVA family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Sypheotides family:Otididae" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Thripadectes flammulatus" ; Times: 1
+	Query: "genus:XOLMIS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Neotis family:Otididae" ; Times: 3
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 1
+	Query: "Dendrortyx barbatus" ; Times: 1
+	Query: "genus:ARAMUS country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 6
+	Query: "genus:ptyodactylus" ; Times: 1
+	Query: "Celeus flavescens mappable:1" ; Times: 2
+	Query: "Amblyodipsas katangensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:moschata genus:cairina country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Ciliata mustela mappable:1" ; Times: 1
+	Query: "Hapalopsittaca amazonina" ; Times: 2
+	Query: "Jabiru mycteria mappable:1" ; Times: 2
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "lullula arborea" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "specificepithet:DOLIATUS family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Synallaxis moesta" ; Times: 1
+	Query: "specificepithet:chamaeleon genus:Chamaeleo" ; Times: 2
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "Touit huetii" ; Times: 2
+	Query: "genus:causus country:&#34;gabon&#34;" ; Times: 6
+	Query: "specificepithet:caudalis genus:bitis country:&#34;botswana&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;Egypt&#34;" ; Times: 1
+	Query: "neafrapus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Myrmotherula urosticta" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 4
+	Query: "specificepithet:CHILENSIS family:CHARADRIIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "genus:ixobrychus country:&#34;paraguay&#34;" ; Times: 2
+	Query: "genus:TROGLODYTES family:TROGLODYTIDAE country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Ploceus rbins" ; Times: 1
+	Query: "podiceps major" ; Times: 3
+	Query: "genus:GERANOSPIZA family:ACCIPITRIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "genus:PSEUDOCOLOPTERYX family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Uzbekistan" ; Times: 2
+	Query: "genus:Sypheotides" ; Times: 2
+	Query: "Prionailurus rubiginosus" ; Times: 1
+	Query: "genus:Hymenolaimus" ; Times: 1
+	Query: "family:CARIAMIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:leptotila family:columbidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:ACCIPITER family:ACCIPITRIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Terpsiphone atrocaudata" ; Times: 2
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "genus:CHIROXIPHIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:fluvicola family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cephalopterus glabricollis" ; Times: 2
+	Query: "genus:CAPSIEMPIS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:chrysura family:TROCHILIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Crax alberti" ; Times: 2
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "Varanus cumingi" ; Times: 3
+	Query: "chelonoidis" ; Times: 1
+	Query: "Pholidornis rushiae" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 2
+	Query: "genus:myiopsitta family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "polytelis alexandrae" ; Times: 2
+	Query: "Pyroderus scutatus mappable:1" ; Times: 2
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "rhaphidura" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "specificepithet:picazuro family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:RBINS" ; Times: 1
+	Query: "Myrmotherula surinamensis" ; Times: 2
+	Query: "specificepithet:maculosa genus:Nothura country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "Aramides cajanea mappable:1" ; Times: 2
+	Query: "specificepithet:perspicillatUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "rhynchotus" ; Times: 2
+	Query: "tragopan" ; Times: 2
+	Query: "genus:Chacophrys specificepithet:pierottii" ; Times: 2
+	Query: "Syndactyla subalaris" ; Times: 1
+	Query: "specificepithet:AJAJA family:threskiornithidae country:&#34;paraguay&#34;" ; Times: 1
+	Query: "genus:causus country:&#34;sudan&#34;" ; Times: 2
+	Query: "specificepithet:maillardi genus:circus" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "tichodroma" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta country:&#34;Peru&#34;" ; Times: 1
+	Query: "vipera ursinii" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "pedostibes hosii" ; Times: 1
+	Query: "Ptilinopus luteovirens" ; Times: 1
+	Query: "Toxostoma curvirostre celsum mappable:1" ; Times: 1
+	Query: "Aparallactus moeruensis" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Anodorhynchus glaucus" ; Times: 2
+	Query: "Toxostoma curvirostre oberholseri mappable:1" ; Times: 1
+	Query: "Carlia babarensis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 1
+	Query: "crocodylus mindorensis" ; Times: 2
+	Query: "nycticebus" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "trogonophis" ; Times: 4
+	Query: "Pardofelis marmorata" ; Times: 2
+	Query: "specificepithet:maculatus genus:causus country:&#34;senegal&#34;" ; Times: 1
+	Query: "specificepithet:TOCO family:RAMPHASTIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:rufescens genus:Rhynchotus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Procnias tricarunculatus" ; Times: 2
+	Query: "Pyriglena atra" ; Times: 1
+	Query: "anaxyrus kelloggi" ; Times: 1
+	Query: "Felis manul" ; Times: 1
+	Query: "Ramphastos dicolorus mappable:1" ; Times: 2
+	Query: "specificepithet:MIXTUS family:PICIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Procellaria conspicillata" ; Times: 2
+	Query: "Cephalopterus penduliger" ; Times: 2
+	Query: "Echis mappable:1" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "atticora fasciata" ; Times: 1
+	Query: "Thripophaga macroura" ; Times: 1
+	Query: "Hylonympha macrocerca" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "Sternula lorata" ; Times: 2
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "Trogonophis" ; Times: 1
+	Query: "specificepithet:CASTANOTIS family:RAMPHASTIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:rosaurae genus:sphaerodactylus country:&#34;honduras&#34;" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "Melanitta americana" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "specificepithet:barbatus genus:myiobius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Callonetta country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "Calabaria mappable:1" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 5
+	Query: "Houbaropsis family:Otididae" ; Times: 2
+	Query: "Leptasthenura striata" ; Times: 1
+	Query: "schoutedenapus" ; Times: 1
+	Query: "Atractus collaris" ; Times: 2
+	Query: "Pipile jacutinga" ; Times: 9
+	Query: "genus:PITANGUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 3
+	Query: "Amplorhinus multimaculatus" ; Times: 1
+	Query: "Pauxi pauxi" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "odontophrynus" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "specificepithet:SIBILATRIX family:ARDEIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Amazona rhodocorytha" ; Times: 1
+	Query: "specificepithet:MARTINICA family:RALLIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Amblyodipsas dimidiata" ; Times: 2
+	Query: "Psammophis sibilans" ; Times: 2
+	Query: "specificepithet:resimus genus:causus country:&#34;sudan&#34;" ; Times: 1
+	Query: "Synallaxis stictothorax" ; Times: 1
+	Query: "Attila torridus" ; Times: 3
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:alleni genus:Porphyrio" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 1
+	Query: "Electron carinatum" ; Times: 2
+	Query: "prigoginei" ; Times: 1
+	Query: "canis anthus" ; Times: 1
+	Query: "genus:bitis country:&#34;zambia&#34;" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 3
+	Query: "genus:STEPHANOXIS family:TROCHILIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "Siptornis striaticollis" ; Times: 1
+	Query: "specificepithet:CRISTATUS genus:FURNARIUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:SUBLEGATUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "terpsiphone atrocaudata" ; Times: 2
+	Query: "Sephanoides fernandensis" ; Times: 2
+	Query: "Penelope obscura mappable:1" ; Times: 2
+	Query: "tiliqua gigas" ; Times: 3
+	Query: "genus:DONACOBIUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:resimus genus:causus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "specificepithet:LEUCOPOGON family:PICIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Naja subfulva" ; Times: 4
+	Query: "scincopus" ; Times: 1
+	Query: "specificepithet:boulboul genus:turdus" ; Times: 1
+	Query: "Vulpes bengalensis" ; Times: 1
+	Query: "Atractaspis congica" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "specificepithet:viduata genus:Dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Synallaxis gujanensis" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "naja haje" ; Times: 1
+	Query: "Crax fasciolata" ; Times: 6
+	Query: "Calliophis melanurus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:RUFUS genus:FURNARIUS country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Lutra sumatrana" ; Times: 2
+	Query: "Amazilia boucardi" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 15
+	Query: "genus:PACHYRAMPHUS country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:inunguis genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Lagothrix lagothricha" ; Times: 1
+	Query: "Asthenes wyatti" ; Times: 1
+	Query: "genus:asthenes family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:piaya family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CHLOROSTILBON family:TROCHILIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "genus:TIGRISOMA family:ARDEIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:himalayensis genus:dendrocopos" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 2
+	Query: "specificepithet:fuliginosa genus:Rhyacornis" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Natrix maura" ; Times: 1
+	Query: "genus:LEPIDOCOLAPTES country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:canicollis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 1
+	Query: "specificepithet:isabellina genus:geositta" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "specificepithet:CINERASCENS family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Grallaria excelsa" ; Times: 1
+	Query: "Colaptes chrysoides mearnsi mappable:1" ; Times: 1
+	Query: "pholidornis rushiae" ; Times: 1
+	Query: "specificepithet:superciliaris genus:penelope country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "genus:GUIRA family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 3
+	Query: "genus:cranioleuca family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "thamnophilus paraensis" ; Times: 2
+	Query: "Leptasthenura berlepschi" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "specificepithet:sibilatrix family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Dipturus oxyrinchus mappable:1" ; Times: 1
+	Query: "genus:PHAETUSA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Hyperolius schoutedeni mappable:1" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "specificepithet:IBIS family:ARDEIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Piprites pileata" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 3
+	Query: "Atheris anisolepis" ; Times: 1
+	Query: "Eryx johnii" ; Times: 5
+	Query: "Crotalus mitchellii pyrrhus" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "specificepithet:PAPA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:saxicolina genus:geositta" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "specificepithet:gabonica genus:bitis country:&#34;zambia&#34;" ; Times: 1
+	Query: "specificepithet:nasicornis genus:bitis country:&#34;congo&#34;" ; Times: 1
+	Query: "Crax alector" ; Times: 2
+	Query: "tachymarptis" ; Times: 2
+	Query: "pholidornis" ; Times: 1
+	Query: "Ichneumia albicauda" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "Onychorhynchus occidentalis" ; Times: 3
+	Query: "Geositta poeciloptera" ; Times: 2
+	Query: "rhynchops niger" ; Times: 2
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "varanus spenceri" ; Times: 2
+	Query: "specificepithet:bedriagae genus:Pelophylax" ; Times: 1
+	Query: "Colaptes chrysoides mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 3
+	Query: "GEochelone carbonaria" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "specificepithet:tataupa genus:Crypturellus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:pyrrhophia family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "katangae" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 1
+	Query: "genus:Suiriri family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Bubo ascalaphus" ; Times: 1
+	Query: "genus:FULICA family:RALLIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Ratufa bicolor" ; Times: 1
+	Query: "specificepithet:budytoides family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Hydraethiops mappable:1" ; Times: 1
+	Query: "Kyrgyzstan" ; Times: 2
+	Query: "grallaria rufula colombia" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "specificepithet:amaurochalinus family:turdidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:ALBESCENS family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "Thinornis" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 11
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 4
+	Query: "specificepithet:rufipennis genus:geositta" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 2
+	Query: "telacanthura" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "specificepithet:squammata family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Qazaqstan" ; Times: 1
+	Query: "country:(Tajikistan)" ; Times: 1
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "specificepithet:rufosuperciliata family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "Heliopais personata" ; Times: 1
+	Query: "Carpornis cucullata" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 6
+	Query: "specificepithet:FRONTALIS family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Moschus" ; Times: 2
+	Query: "Pseudohaje" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "specificepithet:resimus genus:causus country:&#34;congo&#34;" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "family:LARIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "pseudocordylus microlepidotus" ; Times: 1
+	Query: "Chroicocephalus maculipennis mappable:1" ; Times: 1
+	Query: "genus:PIONUS country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Amazona pretrei" ; Times: 2
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Chelonoidis chilensis" ; Times: 1
+	Query: "country:(Kazakhstan)" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "specificepithet:ANHINGA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Tityra cayana mappable:1" ; Times: 2
+	Query: "Asthenes flammulata" ; Times: 1
+	Query: "Carpornis melanocephala mappable:1" ; Times: 2
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "specificepithet:MARGARITACEIVENTER family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 2
+	Query: "specificepithet:magnirostris family:ACCIPITRIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "panthera tigris." ; Times: 2
+	Query: "genus:Mastigodryas country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus country:&#34;congo&#34;" ; Times: 1
+	Query: "Crax rubra México" ; Times: 1
+	Query: "Ardea sumatrana" ; Times: 7
+	Query: "Taoniscus nanus" ; Times: 13
+	Query: "genus:TARABA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:nacunda country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pseudobufo subasper" ; Times: 2
+	Query: "Amazona barbadensis" ; Times: 1
+	Query: "eumyias meridionalis" ; Times: 1
+	Query: "genus:PSEUDOSEISURA family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:plancus family:FALCONIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Henicophaps albifrons" ; Times: 1
+	Query: "specificepithet:YPECAHA family:RALLIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:Crypturellus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "simillimus genus:turdus" ; Times: 1
+	Query: "Accipiter poliogaster country:&#34;brazil&#34;" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Zoothera sibirica" ; Times: 1
+	Query: "Adelophryne patamona" ; Times: 1
+	Query: "genus:causus country:&#34;zambia&#34;" ; Times: 3
+	Query: "specificepithet:suiriri family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "Acanthodactylus boskianus asper" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "gumprechti" ; Times: 1
+	Query: "specificepithet:atropos genus:bitis" ; Times: 4
+	Query: "Basiliscus country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "genus:GUBERNETES family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:PULSATRIX family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Terpsiphone incei" ; Times: 1
+	Query: "genus:THALURANIA family:TROCHILIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "specificepithet:NENDAY family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "PILIOCOLOBUS" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "specificepithet:LEUCOPTERA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Trachylepis quinquetaeniata" ; Times: 3
+	Query: "specificepithet:fasciiventer genus:parus" ; Times: 1
+	Query: "Auriparus flaviceps ornatus mappable:1" ; Times: 5
+	Query: "Varanus griseus" ; Times: 6
+	Query: "Carpornis melanocephala" ; Times: 1
+	Query: "specificepithet:MAGUARI country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Boophis microtympanum" ; Times: 2
+	Query: "specificepithet:meloryphus family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:MELANERPES country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Dendrobates tinctorius" ; Times: 3
+	Query: "genus:PYROCEPHALUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "352679" ; Times: 1
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "specificepithet:MAJOR genus:XIPHOCOLAPTES country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:PHAETHORNIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Xolmis dominicanus" ; Times: 2
+	Query: "genus:euscarthmus family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:sumatranus genus:Corydon" ; Times: 2
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "dendrortyx barbatus" ; Times: 8
+	Query: "Thripadectes melanorhynchus" ; Times: 1
+	Query: "specificepithet:MINUTA family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "Chamaeleo africanus" ; Times: 3
+	Query: "specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "family:ALCEDINIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Pterodroma incerta" ; Times: 2
+	Query: "Synallaxis hypospodia" ; Times: 1
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "Thalassarche salvini" ; Times: 2
+	Query: "genus:Campylorhamphus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 4
+	Query: "specificepithet:CAERULESCENS family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ALBICOLLIS family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ACUTICAUDATA family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Anomalepis" ; Times: 4
+	Query: "Tropiocolotes steudneri" ; Times: 5
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "specificepithet:rufus family:furnariidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Antillophis andreae country:&#34;Cuba&#34;" ; Times: 1
+	Query: "specificepithet:lichtensteini family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "genus:machetornis family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tarsiger cyanurus india" ; Times: 1
+	Query: "genus:GLAUCIDIUM family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Synallaxis albigularis" ; Times: 1
+	Query: "Lalage nigra" ; Times: 1
+	Query: "vntype:specimen specificepithet:SATURNINUS genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 2
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "Diomedea sanfordi" ; Times: 2
+	Query: "Caprimulgus aegyptius" ; Times: 1
+	Query: "genus:Neotis" ; Times: 2
+	Query: "Panthera pardus" ; Times: 4
+	Query: "genus:CROTOPHAGA country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "aegyptius" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 2
+	Query: "specificepithet:dicolorus family:RAMPHASTIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Leptopelis palmatus" ; Times: 1
+	Query: "family:MOMOTIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "Pyrrhulina laeta" ; Times: 1
+	Query: "genus:PICUMNUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:mikado class:aves" ; Times: 10
+	Query: "specificepithet:talpacoti family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Asthenes modesta" ; Times: 1
+	Query: "genus:PHALACROCORAX country:&#34;paraguay&#34;" ; Times: 1
+	Query: "phaetusa simplex" ; Times: 2
+	Query: "genus:LESSONIA family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:sparverius family:FALCONIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:palmatus" ; Times: 1
+	Query: "specificepithet:SULPHURESCENS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Pholidornis" ; Times: 1
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "sthenodactylus" ; Times: 1
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "genus:MIMUS family:MIMIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Podicipedidae country:&#34;Paraguay&#34;" ; Times: 4
+	Query: "specificepithet:CHOLIBA family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Colobus guereza" ; Times: 2
+	Query: "specificepithet:davaoensis genus:tropidophorus" ; Times: 5
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "genus:SCHOENIOPHYLAX family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ruber family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 3
+	Query: "Turdus leucomelas mappable:1" ; Times: 2
+	Query: "specificepithet:rhombeatus genus:causus country:&#34;tanzania&#34;" ; Times: 3
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "family:JACANIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Turdus flavipes mappable:1" ; Times: 2
+	Query: "695008" ; Times: 1
+	Query: "genus:BROTOGERIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Oxyruncus cristatus mappable:1" ; Times: 2
+	Query: "genus:heliobletus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:gabonica genus:bitis country:&#34;congo&#34;" ; Times: 1
+	Query: "genus:DENDROCINCLA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Eirenis coronella" ; Times: 3
+	Query: "specificepithet:mechowi genus:cercococcyx" ; Times: 1
+	Query: "macrovipera" ; Times: 1
+	Query: "specificepithet:STRIGILATUS family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:SITTASOMUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 2
+	Query: "coluber jugularis" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 1
+	Query: "genus:Phrynomantis specificepithet:bifasciatus" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "specificepithet:ACUTIPENNIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 3
+	Query: "genus:myiopsitta country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 3
+	Query: "Tolypeutes" ; Times: 1
+	Query: "graueria" ; Times: 2
+	Query: "genus:Leptodeira class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pterodroma externa" ; Times: 2
+	Query: "platysternon" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 2
+	Query: "Ancistrops strigilatus" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus" ; Times: 1
+	Query: "specificepithet:STRIATUS family:ARDEIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "(&#34;toxostoma ocellatum&#34;)" ; Times: 1
+	Query: "emys orbicularis" ; Times: 2
+	Query: "perdicula inglisi" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:sauvagii" ; Times: 1
+	Query: "Gobius niger mappable:1" ; Times: 1
+	Query: "specificepithet:ALAUDINA family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:BAERI family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:lichtensteinii genus:causus" ; Times: 5
+	Query: "specificepithet:ROBUSTUS family:PICIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Guaruba guarouba" ; Times: 1
+	Query: "genus:CASIORNIS family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:ZENAIDA family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "dynamene" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 2
+	Query: "Colaptes chrysoides chrysoides mappable:1" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Amazonetta country:&#34;Paraguay&#34;" ; Times: 5
+	Query: "specificepithet:picui family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "DENDRORTYX BARBATUS" ; Times: 20
+	Query: "Coeligena prunellei" ; Times: 2
+	Query: "Campephilus gayaquilensis" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Pyrrhura leucotis" ; Times: 1
+	Query: "Pionus maximiliani mappable:1" ; Times: 2
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "specificepithet:canicollis genus:ortalis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:causus country:&#34;congo&#34;" ; Times: 3
+	Query: "specificepithet:funereus genus:parus" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 1
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "specificepithet:STRIATICEPS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Alectrurus risora" ; Times: 2
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:DIOPS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "caiman spix" ; Times: 1
+	Query: "specificepithet:bowersi genus:berylmys" ; Times: 1
+	Query: "Phoenicurus erythronotus" ; Times: 2
+	Query: "genus:Spilotes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptodrymus pulcherrimus" ; Times: 3
+	Query: "specificepithet:PITANGUA family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Gorilla beringei" ; Times: 1
+	Query: "genus:Houbaropsis" ; Times: 1
+	Query: "genus:PHIBALURA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:scincus genus:Scincus" ; Times: 1
+	Query: "Tarsiger cyanurus India" ; Times: 1
+	Query: "genus:PIPRA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 3
+	Query: "Xenodon Mexico" ; Times: 1
+	Query: "genus:CROTOPHAGA family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Tijuca atra mappable:1" ; Times: 2
+	Query: "lycalopex vetulus" ; Times: 1
+	Query: "pardirallus maculatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:senegalensis genus:Otus" ; Times: 2
+	Query: "genus:HYDROPSALIS family:CAPRIMULGIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "genus:Pholidornis" ; Times: 1
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "specificepithet:aestivus genus:philodryas" ; Times: 1
+	Query: "Carpornis cucullata mappable:1" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "specificepithet:rufiventris family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "cavia porcellus" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "genus:BUSARELLUS country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:BURROVIANUS country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Atractus favae" ; Times: 2
+	Query: "Synallaxis unirufa" ; Times: 1
+	Query: "bitis nasicornis" ; Times: 7
+	Query: "genus:SCHIFFORNIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Centrophorus squamosus mappable:1" ; Times: 1
+	Query: "Agamia agami" ; Times: 2
+	Query: "ursinii" ; Times: 1
+	Query: "genus:CONOPOPHAGA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Leucoraja fullonica mappable:1" ; Times: 2
+	Query: "Prosopeia splendens" ; Times: 1
+	Query: "Grallaria gigantea" ; Times: 2
+	Query: "ceratophrys ar" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "specificepithet:AURA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:NIGRICOLLIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 1
+	Query: "Chamaelycus christyi" ; Times: 1
+	Query: "specificepithet:francolinus genus:Francolinus country:&#34;Italy&#34;" ; Times: 1
+	Query: "Pelecanoides garnotii" ; Times: 2
+	Query: "specificepithet:cinereus family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Alectrurus tricolor" ; Times: 2
+	Query: "Raja brachyura mappable:1" ; Times: 1
+	Query: "Procnias nudicollis mappable:1" ; Times: 2
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 4
+	Query: "genus:corythopis family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:otis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 212 (out of 1227 download events in this period)
+Total number of records downloaded: 3574
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 38
+	Country: Israel ; Times: 10
+	Country: Mexico ; Times: 52
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Hungary ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 59
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-11 ; Times: 27
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 41
+	Date: 2019-02-12 ; Times: 10
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 17
+	Date: 2019-02-17 ; Times: 12
+	Date: 2019-02-16 ; Times: 9
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 20
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-08 ; Times: 7
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:infuscatus genus:turdus" ; Times: 1
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "specificepithet:shelleyi genus:cryptospiza" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Amplorhinus multimaculatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:castaneus genus:celeus" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Apostolepis assimilis" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "specificepithet:saxicolina genus:geositta" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "Amblyodipsas katangensis" ; Times: 1
+	Query: "canis anthus" ; Times: 1
+	Query: "berylmys" ; Times: 2
+	Query: "Amazona guildingii" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "Ateuchosaurus pellopleurus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "(&#34;toxostoma ocellatum&#34;)" ; Times: 1
+	Query: "specificepithet:boulboul genus:turdus" ; Times: 1
+	Query: "Vulpes bengalensis" ; Times: 1
+	Query: "Atractaspis congica" ; Times: 1
+	Query: "simillimus genus:turdus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 3
+	Query: "specificepithet:inunguis genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "vntype:specimen specificepithet:himalayensis genus:dendrocopos" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Rhyacornis" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "specificepithet:isabellina genus:geositta" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "neafrapus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:rufipennis genus:geositta" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:RBINS" ; Times: 1
+	Query: "DENDRORTYX BARBATUS" ; Times: 1
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Campephilus gayaquilensis" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufitorques genus:turdus" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:funereus genus:parus" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 1
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "specificepithet:maillardi genus:circus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "genus:Chironius" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "dendrortyx barbatus" ; Times: 3
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "harpia harpyja" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrescens genus:turdus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Onychorhynchus occidentalis" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "micoureus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 1
+	Query: "Felis manul" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "specificepithet:fasciiventer genus:parus" ; Times: 1
+	Query: "Bubo ascalaphus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "lycalopex vetulus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "specificepithet:rosaurae genus:sphaerodactylus country:&#34;honduras&#34;" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Doricha eliza" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoscepus genus:francolinus" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
